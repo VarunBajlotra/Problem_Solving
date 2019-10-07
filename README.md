@@ -1,2 +1,2 @@
 # Problem_Solving
-HackerRank - Problem Solving and Algorithms
+HackerRank - Problem Solving And Algorithms.
